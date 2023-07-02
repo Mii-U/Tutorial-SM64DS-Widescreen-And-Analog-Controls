@@ -1,10 +1,14 @@
 # Tutorial-SM64DS-Widescreen-And-Analog-Controls
-***Disclaimer: I am NOT responsible for any damages to your console. Please follow all instructions EXACTLY!***
 
-Tips:
+***Disclaimers***
+1. I am NOT responsible for any damages to your console. Please follow all instructions EXACTLY!***
+2. I own none of the software. Rights go to their respective owners. Do NOT ask me for a rom. Please get a rom legally.
+
+***Tips***
 1. Make folders if they don't exist
 2. turn on "show file extensions" in your file explorer to make it easier to see what you are doing
 
+***Tutorial***
 1. Use xdeltaUI/xdeltaUI.exe to patch your game with the sm64ws.xdelta (I know it works for US version 1.1. Dunno if it'll work for other regions)
 2. Put the patched game on your 3ds sd card in SD:/roms/nds/
 3. Put usercheat.dat on your 3ds sd card in SD:/_nds/ntr-forwarder/
@@ -43,5 +47,3 @@ Tips:
 32. It might freeze and/or reboot, so wait about 2 minutes until it boots to the title screen
 33. Now it's all set up so that those settings apply automatically everytime you open the game
 34. Enjoy!
-
-I own none of the software. Rights go to their respective owners. Do NOT ask me for a rom. Please get a rom legally.
