@@ -1,13 +1,15 @@
 # Tutorial-SM64DS-Widescreen-And-Analog-Controls
 
 ***Disclaimers***
-1. I am NOT responsible for any damages to your console. Please follow all instructions EXACTLY!***
-2. I own none of the software. Rights go to their respective owners. Do NOT ask me for a rom. Please get a rom legally.
+1. I am NOT responsible for any damages to your console.
+2. I own none of the software. Rights go to their respective owners.
+3. Do NOT ask me for a rom. Please get a rom legally.
 
 ***Tips***
 1. Make folders if they don't exist
 2. turn on "show file extensions" in your file explorer to make it easier to see what you are doing
 
+Please follow all instructions ***EXACTLY!*** to avoid issues
 ***Tutorial***
 1. Use xdeltaUI/xdeltaUI.exe to patch your game with the sm64ws.xdelta (I know it works for US version 1.1. Dunno if it'll work for other regions)
 2. Put the patched game on your 3ds sd card in SD:/roms/nds/
@@ -50,6 +52,7 @@
 34. Enjoy!
 
 ***Troubleshooting***
+
 Problem: Other DS(i) games are affected by the widescreen and look all stretched!
 Solution:
 1. Open TWLPatch
