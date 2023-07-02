@@ -50,14 +50,14 @@
 34. Enjoy!
 
 ***Troubleshooting***
-Problem: Other ds(i) games are affected by the widescreen and look all stretched!
+Problem: Other DS(i) games are affected by the widescreen and look all stretched!
 Solution:
 1. Open TWLPatch
 2. Select nintendo original (or any option on the main screen if you want)
 3. Press start
 4. Wait until it's done
 5. Hold select to exit
-6. Try opening a ds(i) game that is not SM64 and it should show up correctly in 4:3
+6. Try opening a DS(i) game that is not SM64 and it should show up correctly in 4:3
 7. Try opening SM64 and it should show up in widescreen 16:10
 
 Problem: Glitches and/or buzzy audio
