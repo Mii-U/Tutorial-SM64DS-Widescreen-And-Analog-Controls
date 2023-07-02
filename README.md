@@ -1,7 +1,9 @@
 # Tutorial-SM64DS-Widescreen-And-Analog-Controls
+***Disclaimer: I am NOT responsible for any damages to your console. Please follow all instructions EXACTLY!***
 
-Make folders if they don't exist
-Note: turn on "show file extensions" in your file explorer to make it easier to see what you are doing
+Tips:
+1. Make folders if they don't exist
+2. turn on "show file extensions" in your file explorer to make it easier to see what you are doing
 
 1. Use xdeltaUI/xdeltaUI.exe to patch your game with the sm64ws.xdelta (I know it works for US version 1.1. Dunno if it'll work for other regions)
 2. Put the patched game on your 3ds sd card in SD:/roms/nds/
