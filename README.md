@@ -20,10 +20,10 @@ Note: turn on "show file extensions" in your file explorer to make it easier to 
 13. Select your patched game
 14. Leave options default
 15. Press install
-16. Press start to exit to hb launcher
+16. Press start to exit to the hb launcher
 17. Plug in 3ds!!!! You do NOT want it to lose power during the next step. It might brick if it loses power near the end, idk, I didn't test cause I like my 3ds :)
 18. Open TWLPatch
-19. Hold down Y, then start holding down B
+19. Hold down Y, then hold down B also
 20. In the menu that pops up, use the dpad and A to select "GPU scaling" and then Widescreen
 21. Press start button and then wait!!! Do NOT turn of the 3ds. It may take up to 10 minutes
 23. When it says it's done, then hold select to go back to the home menu
