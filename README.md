@@ -47,3 +47,27 @@
 32. It might freeze and/or reboot, so wait about 2 minutes until it boots to the title screen
 33. Now it's all set up so that those settings apply automatically everytime you open the game
 34. Enjoy!
+
+***Troubleshooting***
+Problem: Other ds(i) games are affected by the widescreen and look all stretched!
+Solution:
+1. Open TWLPatch
+2. Select nintendo original (or any option on the main screen if you want)
+3. Press start
+4. Wait until it's done
+5. Hold select to exit
+6. Try opening a ds(i) game that is not SM64 and it should show up correctly in 4:3
+7. Try opening SM64 and it should show up in widescreen 16:10
+
+Problem: Glitches and/or buzzy audio
+Solution:
+1. Open SM64DS
+2. Press L + Down on Dpad + Select
+3. On the menu, go to options and then try changing to DS mode
+4. Press B twice to go back to the game
+5. If this fixes it, then skip to step 7
+6. If not, then try changing other settings on the menu and see what works
+7. Exit back to the home menu
+8. Hold Y while opening SM64DS until the menu shows up
+9. Edit the options to match the options that fixed the issue for you
+10. This should work but apparently different options are needed for different 3DSs so your mileage may very
